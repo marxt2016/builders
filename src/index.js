@@ -1,4 +1,4 @@
-import "./index.css";
+import "../index.css";
 import JS_IMG from '../assets/490_js.jpg';
 
 console.log('Hello');
